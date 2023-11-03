@@ -1,0 +1,27 @@
+body { 
+    background-color: #70c3fa; 
+    margin: 0; 
+} 
+.container { 
+    text-align: center; 
+    width: 100%; 
+    margin: auto; 
+    
+} 
+h1 { 
+    text-align: center;
+    color: #9bffde; 
+    margin: 30px;
+    font-size: 3rem;  
+    text-shadow: 3px 0 #0e1013; 
+   
+    
+} 
+
+img {
+    width: 10%;
+}
+
+.bottom {
+    padding-top: 20px;
+}
