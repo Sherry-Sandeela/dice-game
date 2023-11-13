@@ -13,15 +13,32 @@ h1 {
     color: #9bffde; 
     margin: 30px;
     font-size: 3rem;  
-    text-shadow: 3px 0 #0e1013; 
-   
-    
+    text-shadow: 3px 0 #0e1013;    
 } 
 
 img {
-    width: 10%;
+    width: 80%;
 }
 
 .bottom {
     padding-top: 20px;
+}
+
+p {
+    color: #306353;
+    font-size: 2rem;   
+}
+
+.butn {
+    background: #9ef8da;
+    font-family: "Indie Flower", cursive;
+    border-radius: 7px;
+    color: #ffff;
+    font-size: 30px;
+    padding: 7px 7px 5px 7px;
+}
+.dice {
+    display: inline-block;
+    text-align: center;
+    margin: 12px;
 }
